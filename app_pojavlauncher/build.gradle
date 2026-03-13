@@ -74,7 +74,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "git.artdeell.mojo"
+        applicationId "git.artdeell.mojo.test"
         minSdkVersion 21
         targetSdkVersion 36
         versionCode getDateSeconds()
